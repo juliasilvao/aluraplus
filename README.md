@@ -1,1 +1,3 @@
-# aluraplus
+# Alura+
+
+Landing page do Alura+
